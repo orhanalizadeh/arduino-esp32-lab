@@ -39,25 +39,6 @@ Embedded Systems
 
 ---
 
-## 📂 Project Structure
-
-Each project is kept in its own directory:
-
-```text
-embedded-lab/
-│
-├── 001-led-blink/
-├── 002-button-control/
-├── 003-potentiometer/
-├── 004-light-sensor/
-├── 005-temperature-sensor/
-└── ...
-```
-
-Projects are numbered to make the learning progression easy to follow.
-
----
-
 ## 🛠️ Technologies
 
 | Technology  | Purpose                                |
