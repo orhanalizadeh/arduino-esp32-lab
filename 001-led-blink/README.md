@@ -1,4 +1,4 @@
-# 🟢 Day 01 — LED Blink
+# 🟢 01 — LED Blink
 
 > My first step into Arduino & Embedded Systems 🚀
 
