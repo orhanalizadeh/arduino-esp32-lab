@@ -1,4 +1,4 @@
-# 🔵 Day 02 — Button Controlled LED
+# 🔵 02 — Button Controlled LED
 
 > Control an LED with a physical button using digital input and output.
 
